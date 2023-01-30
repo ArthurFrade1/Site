@@ -1,0 +1,17 @@
+header{
+    display: flex;
+}
+
+.title{
+    background-color: aquamarine;
+    width: 30%;
+    text-align: center;
+}
+
+.phrase{
+    background-color: rgb(188, 165, 209);
+    width: 70%;
+    text-align: right;
+    padding-right: 30px;
+    justify-content: center;
+}

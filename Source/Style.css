@@ -17,7 +17,7 @@ header{
 }
 
 nav{
-    background-color: blanchedalmond;
+    background-color: rgb(134, 223, 230);
     display: flex;
 }
 
@@ -26,3 +26,56 @@ nav{
     width: 25%;
     text-decoration: none;
 }
+
+.p:hover{
+    background-color: rgb(99, 210, 224);
+}
+
+footer{
+    background-color: rgba(137, 43, 226, 0.116);
+    text-align: center;
+    padding: 25px;
+}
+
+.sec{
+    background-color: aqua;
+    display: flex;
+}
+
+.meio{
+    width: 100%;
+}
+/* 
+.sec div{
+    width: 50%
+} */
+
+audio{
+    padding-top: 25px;
+}
+
+.txt1 h2{
+    text-align: center;
+    padding-top: 25px;
+}
+
+.login{
+    background-color: rgb(49, 103, 107);
+    width: 70%;
+    text-align: center;
+}
+
+
+.meio{
+    display: flex;
+    
+}
+
+#pass{
+    padding-left: 20px;
+}
+
+#but{
+    background-color: brown;
+}
+
